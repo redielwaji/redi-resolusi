@@ -11,3 +11,8 @@
 -Responsive design (mobile-first)
 -Penggunaan media query
 -Membuat 3–5 project UI kecil (card, navbar, form)
+
+✅ 3. Gunakan Framework CSS untuk Mempercepat
+-Pelajari Bootstrap / Tailwind CSS
+-Latihan: membuat landing page responsif dalam 1 hari
+-Ubah desain Figma ke website real
