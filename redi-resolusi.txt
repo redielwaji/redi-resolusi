@@ -1,0 +1,6 @@
+🎯 REDI — Resolusi Belajar Front-End Web Development
+✅ 1. Kuasai Dasar Paling Penting
+-Belajar HTML (struktur dasar halaman web)
+-Belajar CSS (styling, layout, warna, font)
+-Belajar JavaScript dasar (variabel, kondisi, fungsi, event)
+-Praktik bikin halaman sederhana
