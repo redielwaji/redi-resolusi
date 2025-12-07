@@ -1,0 +1,23 @@
+⭐ Tahap 1 — Kuasai Dasar Paling Penting (HTML, CSS, JS Dasar)
+🎯 Tujuan
+Memahami dasar-dasar halaman web: struktur, style, dan interaksi sederhana.
+📘 Materi Belajar
+-HTML
+Struktur dokumen
+Heading, paragraph, list
+Image, link, table, form
+
+-CSS
+Styling (warna, font, spacing)
+Box model
+Positioning
+Layout sederhana
+-JavaScript Dasar
+Variabel
+Tipe data
+Kondisi & loop
+Fungsi
+Event DOM (click, input, hover)
+
+-🛠️ Output/Praktik
+Buat halaman web sederhana (profil, landing page kecil, atau mini-portfolio)
