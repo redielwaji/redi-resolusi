@@ -4,3 +4,10 @@
 -Belajar CSS (styling, layout, warna, font)
 -Belajar JavaScript dasar (variabel, kondisi, fungsi, event)
 -Praktik bikin halaman sederhana
+
+✅ 2. Perkuat Fundamental CSS
+-Flexbox
+-Grid Layout
+-Responsive design (mobile-first)
+-Penggunaan media query
+-Membuat 3–5 project UI kecil (card, navbar, form)
