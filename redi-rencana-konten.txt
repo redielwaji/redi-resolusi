@@ -8,6 +8,7 @@ Memahami dasar-dasar halaman web: struktur, tampilan, dan interaksi sederhana.
 Struktur dokumen (<html>, <head>, <body>)
 Heading (<h1>–<h6>), paragraf (<p>), list (<ul>, <ol>, <li>)
 Gambar (<img>), link (<a>), tabel (<table>, <tr>, <td>), form (<input>, <button>)
+"Elemen-elemen ini digunakan untuk menampilkan konten multimedia, membuat navigasi, menyusun data, dan menerima input dari pengguna."
 
 -CSS
 Styling dasar (warna, font, spacing)
