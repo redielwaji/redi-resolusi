@@ -1,23 +1,30 @@
-⭐ Tahap 1 — Kuasai Dasar Paling Penting (HTML, CSS, JS Dasar)
+⭐ Tahap 1 — Kuasai Dasar Front-End
+
 🎯 Tujuan
-Memahami dasar-dasar halaman web: struktur, style, dan interaksi sederhana.
+Memahami dasar-dasar halaman web: struktur, tampilan, dan interaksi sederhana.
+
 📘 Materi Belajar
 -HTML
-Struktur dokumen
-Heading, paragraph, list
-Image, link, table, form
+Struktur dokumen (<html>, <head>, <body>)
+Heading (<h1>–<h6>), paragraf (<p>), list (<ul>, <ol>, <li>)
+Gambar (<img>), link (<a>), tabel (<table>, <tr>, <td>), form (<input>, <button>)
 
 -CSS
-Styling (warna, font, spacing)
-Box model
-Positioning
-Layout sederhana
--JavaScript Dasar
-Variabel
-Tipe data
-Kondisi & loop
-Fungsi
-Event DOM (click, input, hover)
+Styling dasar (warna, font, spacing)
+Box model (content, padding, border, margin)
+Positioning (static, relative, absolute)
+Layout sederhana (block, inline, inline-block)
 
--🛠️ Output/Praktik
-Buat halaman web sederhana (profil, landing page kecil, atau mini-portfolio)
+-JavaScript Dasar
+Variabel (let, const), tipe data (string, number, boolean)
+Kondisi (if/else, switch) & loop (for, while)
+Fungsi (biasa & arrow function)
+Event DOM (click, input, hover) untuk interaksi sederhana
+
+-🛠️ Output / Praktik
+Buat halaman web sederhana seperti:
+Profil pribadi
+Landing page mini
+Mini-portfolio
+
+Halaman ini harus menggabungkan HTML, CSS, dan interaksi dasar JavaScript.
